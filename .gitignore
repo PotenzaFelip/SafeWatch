@@ -1,0 +1,6 @@
+# Ignorar arquivo com RTSP URL
+rtsp_url.txt
+
+# Ignorar arquivos temporários de vídeo
+*.avi
+*.png
